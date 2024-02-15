@@ -41,4 +41,4 @@
 - **JarqueBera:** Un test statistico per verificare la normalità di un campione.
 - **Leverage Residual Squared:** Parametri utilizzati nella regressione lineare per misurare l'effetto di ogni osservazione sui residui.
 - **Harvey Collier:** Test di collinearità per verificare la presenza di multicollinearità nei dati.
-
+- **Pearsonr:** Funzione che calcola il coefficiente di correlazione di Pearson, che misura la forza e la direzione di una relazione lineare tra due variabili continue.
