@@ -1,4 +1,4 @@
-# PYTHON LIBRARIES
+# LIBRERIE PYTHON UTILIZZATE
 
 **Pandas:**
 Pandas è una libreria Python focalizzata sulla manipolazione e l'analisi dei dati. Utilizza strutture dati chiave come DataFrame e Series, consentendo l'etichettatura, la filtrazione e l'analisi statistica dei dati in modo efficiente. Le operazioni di groupby e merge facilitano la manipolazione di dati tabulari complessi. 
