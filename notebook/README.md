@@ -1,4 +1,5 @@
 **PAROLE CHIAVE**
+
 **Libreria Scipy:**
 La libreria SciPy è una libreria open-source di alto livello per il calcolo scientifico in Python. Fornisce funzioni specializzate per l'ottimizzazione, l'algebra lineare, l'interpolazione, la statistica e molte altre aree della matematica e della scienza.
 
